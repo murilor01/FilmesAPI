@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r9YkvSQxVND+ZFK0/HxADMu46rgrJpmbBNgaaaaNaSN5XkfNJVBe8fJxK8oEPIio3HqIsYFmebVGAB7fD6EN9g==",
+  "dgSpecHash": "mxyP6ogTlvF679EyNQGWnq4T/oDEvHDiOBIvIfI3D6r4ocqT0wBO9cVHYc1WpEzJFNjcKIcVYKmuFwG5tqDxlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\muril\\Desktop\\Projetos\\FilmesAPI\\UsuariosApi\\UsuariosApi.csproj",
+  "projectFilePath": "C:\\Users\\muril\\Desktop\\Projetos\\Pessoal\\FilmesAPI\\UsuariosApi\\UsuariosApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\muril\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\muril\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

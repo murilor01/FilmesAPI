@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\muril\\Desktop\\Projetos\\FilmesAPI\\UsuariosApi\\UsuariosApi.csproj": {}
+    "C:\\Users\\muril\\Desktop\\Projetos\\Pessoal\\FilmesAPI\\UsuariosApi\\UsuariosApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\muril\\Desktop\\Projetos\\FilmesAPI\\UsuariosApi\\UsuariosApi.csproj": {
+    "C:\\Users\\muril\\Desktop\\Projetos\\Pessoal\\FilmesAPI\\UsuariosApi\\UsuariosApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\muril\\Desktop\\Projetos\\FilmesAPI\\UsuariosApi\\UsuariosApi.csproj",
+        "projectUniqueName": "C:\\Users\\muril\\Desktop\\Projetos\\Pessoal\\FilmesAPI\\UsuariosApi\\UsuariosApi.csproj",
         "projectName": "UsuariosApi",
-        "projectPath": "C:\\Users\\muril\\Desktop\\Projetos\\FilmesAPI\\UsuariosApi\\UsuariosApi.csproj",
+        "projectPath": "C:\\Users\\muril\\Desktop\\Projetos\\Pessoal\\FilmesAPI\\UsuariosApi\\UsuariosApi.csproj",
         "packagesPath": "C:\\Users\\muril\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\muril\\Desktop\\Projetos\\FilmesAPI\\UsuariosApi\\obj\\",
+        "outputPath": "C:\\Users\\muril\\Desktop\\Projetos\\Pessoal\\FilmesAPI\\UsuariosApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
